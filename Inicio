@@ -1,0 +1,7 @@
+echo "# Actividad-4---Utilizando-sistemas-de-control-de-versiones" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remoto add origin https://github.com/Oscar-Yustre/Actividad-4---Utilizando-sistemas-de-control-de-versiones.git
+ git push -u origin main
